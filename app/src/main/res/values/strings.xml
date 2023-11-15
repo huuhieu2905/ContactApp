@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+
+    <string name="j">Joshua Kimmich</string>
+    <string name="j_detail">
+        ID: 1\n\nHo ten: Joshua Kimmich\n\nSDT: 123456
+    </string>
+
+    <string name="s">Stuart Vandervort</string>
+    <string name="s_detail">
+        ID: 2\n\nHo ten: Stuart Vandervort\n\nSDT: 142356
+    </string>
+
+    <string name="m">Maddison Russel</string>
+    <string name="m_detail">
+        ID: 3\n\nHo ten: Maddison Russel\n\nSDT: 124256
+    </string>
+
+    <string name="h">Halle Morar II</string>
+    <string name="h_detail">
+        ID: 4\n\nHo ten: Halle Morar \n\nSDT: 042856
+    </string>
+
+    <string name="k">Karelle Simmonich</string>
+    <string name="k_detail">
+        ID: 5\n\nHo ten: Karelle Simmonich\n\nSDT: 096332
+    </string>
+
+    <string name="h2">Hannah Welch</string>
+    <string name="h2_detail">
+        ID: 6\n\nHo ten: Hannah Welch\n\nSDT: 078452
+    </string>
+
+    <string name="f">Fanny Framy</string>
+    <string name="f_detail">
+        ID: 7\n\nHo ten: Fanny Framy\n\nSDT: 096352
+    </string>
+
+    <string name="e">Elfrieda Wilsock</string>
+    <string name="e_detail">
+        ID: 8\n\nHo ten: Elfrieda Wilsock\n\nSDT: 097432
+    </string>
+</resources>
